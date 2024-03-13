@@ -19,8 +19,3 @@ for i in range(10):
   
 final_dataset.to_csv("dataset.csv", index=False)
 
-# file_path = "dataset_raw/0/img_1.jpg"
-# imimage = imageio.v2.imread(file_path)
-# imimage = imimage.flatten()
-
-# print(imimage)
